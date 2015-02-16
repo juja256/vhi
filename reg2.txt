@@ -1,5 +1,5 @@
-1: Vinnytsya
-2: Volyn
+1: Volyn
+2: Vinnytsya
 3: Dnipropetrovs'k
 4: Donets'k
 5: Zhytomyr
