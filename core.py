@@ -1,3 +1,4 @@
+# main script for the first lab. by Jenia Grubian, 14.02.15
 import upload
 import sys
 import os
@@ -58,5 +59,5 @@ def select_years_with_extreme_vhi_by_area_percent(id, percent):
 	print "Extreme conditions for"+regions_new[id]+"region, with percent of area >"+str(percent)
 	print v[['Year','Week','VHI','Less 15']][(v['Region']==id) & (v['Less 15']>percent)]
 
-select_vhi_by_region_and_year(1,2000)
-select_years_with_extreme_vhi_by_area_percent(1,7.0)
+#select_vhi_by_region_and_year(1,2000)
+#select_years_with_extreme_vhi_by_area_percent(1,7.0)

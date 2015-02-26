@@ -1,3 +1,4 @@
+# upload script by Jenia Grubian, 12.02.15 
 import urllib2
 from datetime import datetime
 
